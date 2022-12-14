@@ -1,0 +1,82 @@
+ .navbar
+{
+    color: white,
+    
+}
+.btn-circle {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    padding: 5;
+    border-radius: 50%;
+  }
+  
+  .btn-circle i {
+    position: relative;
+    top: 1px;
+  }
+  
+  .btn-circle-sm {
+    width: 40px;
+    height: 40px;
+    line-height: 35px;
+    font-size: 0.9rem;
+  }
+  .btn-circle-lg {
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    font-size: 1.1rem;
+  }
+.icon-color
+{
+    background-color: #f23eae;
+    color: white;
+}
+  .btn-grad {
+    background-image: linear-gradient(to bottom, #9977f1 0%, #2b6cfb  51%, #9977f1  100%);
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 100% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+  }
+.nav
+{
+    background: #26272a;
+}
+.dropdown-toggle
+{
+    background: #26272a;
+    color: white;
+}
+.wrapper .sidebar{
+    background: #26272a;
+    position: fixed;
+    margin-top: 50px;
+    top: 0;
+    left: 0;
+    width: 125px;
+    height: 91%;
+    padding: 20px 0;border-radius: 10px;
+    transition: all 0.5s ease;
+}
+img
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.col-md-10
+{
+    background-color: #26272a;
+    margin-top: 70px;
+    margin-left: 58px;
+    height: 450px;
+    border-radius: 10px;
+}
